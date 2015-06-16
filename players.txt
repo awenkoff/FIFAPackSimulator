@@ -1,0 +1,100 @@
+1	Lionel Messi	CF	FC Barcelona	93	94
+2	C. Ronaldo	dos Santos Aveiro	LW	Real Madrid	92	92
+3	Arjen Robben	RM	Bayern München	90	88
+4	Zlatan Ibrahimović	ST	Paris Saint-Germain	90	89
+5	Manuel Neuer	GK	Bayern München	90	86
+6	Andrés Iniesta Luján	CM	FC Barcelona	89	89
+7	Luis Suárez	ST	FC Barcelona	89	88
+8	Robin van Persie	ST	Manchester United	88	89
+9	Bastian Schweinsteiger	CM	Bayern München	88	88
+10	Franck Ribéry	LM	Bayern München	88	90
+11	Radamel Falcao	García Zarate	ST	Manchester United	88	90
+12	Eden Hazard	LM	Chelsea	88	88
+13	Philipp Lahm	CDM	Bayern München	87	87
+14	Sergio Ramos García	CB	Real Madrid	87	86
+15	Thiago Emiliano	da Silva	CB	Paris Saint-Germain	87	87
+16	David Josué	Jimenez Silva	LM	Manchester City	87	88
+17	Gareth Bale	RM	Real Madrid	87	87
+18	Luka Modrić	CM	Real Madrid	87	85
+19	Robert Lewandowski	ST	Bayern München	87	86
+20	Xavier Hernández Creus	CM	FC Barcelona	86	89
+21	Yaya Touré	CM	Manchester City	86	86
+22	Wayne Rooney	ST	Manchester United	86	87
+23	Vincent Kompany	CB	Manchester City	86	86
+24	Sergio Agüero	ST	Manchester City	86	88
+25	Mesut Özil	CAM	Arsenal	86	87
+26	Mats Hummels	CB	Borussia Dortmund	86	85
+27	Edinson Cavani	ST	Paris Saint-Germain	86	87
+28	Ángel Di María	CAM	Manchester United	86	86
+29	Marco Reus	LM	Borussia Dortmund	86	85
+30	Thomas Müller	RM	Bayern München	86	85
+31	Neymar da Silva Santos Jr.	LW	FC Barcelona	86	84
+32	Thibaut Courtois	GK	Chelsea	86	84
+33	James Rodríguez	CAM	Real Madrid	86	83
+34	Petr Čech	GK	Chelsea	85	85
+35	Carlos Tévez	ST	Juventus	85	86
+36	Karim Benzema	ST	Real Madrid	85	85
+37	Hugo Lloris	GK	Tottenham Hotspur	85	84
+38	Javier Martínez Aginaga	CB	Bayern München	85	84
+39	Juan Manuel	Mata García	CAM	Manchester United	85	87
+40	Diego da Silva Costa	ST	Chelsea	85	84
+41	Arturo Vidal	CM	Juventus	85	86
+42	Toni Kroos	CM	Real Madrid	85	84
+43	Jérôme Boateng	CB	Bayern München	85	83
+44	Sergio Busquets Burgos	CDM	FC Barcelona	85	85
+45	Mario Götze	CAM	Bayern München	85	85
+46	Iker Casillas Fernández	GK	Real Madrid	84	86
+47	Andrea Pirlo	CM	Juventus	84	86
+48	Xabier Alonso Olano	CDM	Bayern München	84	85
+49	Daniele De Rossi	CDM	Roma	84	84
+50	Giorgio Chiellini	CB	Juventus	84	86
+51	Wesley Sneijder	CAM	Galatasaray SK	84	84
+52	Arda Turan	LM	Atlético de Madrid	84	84
+53	Santiago Cazorla González	LM	Arsenal	84	85
+54	Klaas-Jan Huntelaar	ST	FC Schalke 04	84	84
+55	Gerard	Piqué Bernabeu	CB	FC Barcelona	84	86
+56	Francesc	Fàbregas i Soler	CM	Chelsea	84	86
+57	Samir	Nasri	LM	Manchester City	84	84
+58	Gonzalo	Higuaín	ST	Napoli	84	84
+59	Salvatore	Sirigu	GK	Paris Saint-Germain	84	84
+60	Mehdi	Benatia	CB	Bayern München	84	84
+61	Sami	Khedira	CDM	Real Madrid	84	84
+62	Diego	Godín	CB	Atlético de Madrid	84	83
+63	Alexis	Sánchez	RW	Arsenal	84	82
+64	Oscar	dos Santos Emboaba	CAM	Chelsea	84	84
+65	Roman	Weidenfeller	GK	Borussia Dortmund	83	83
+66	John	Terry	CB	Chelsea	83	83
+67	Per	Mertesacker	CB	Arsenal	83	82
+68	Jérémy	Toulalan	CDM	AS Monaco	83	82
+69	Képler Laveran	Lima Ferreira	CB	Real Madrid	83	83
+70	Andrea	Barzagli	CB	Juventus	83	84
+71	Nemanja	Vidić	CB	Inter	83	87
+72	Javier	Mascherano	CB	FC Barcelona	83	84
+73	Álvaro	Negredo Sánchez	ST	Manchester City	83	84
+74	Daniel	Alves da Silva	RB	FC Barcelona	83	84
+75	Jesús	Navas González	RM	Manchester City	83	85
+76	Diego	López Rodríguez	GK	Milan	83	83
+77	Igor	Akinfeev	GK	CSKA Moskva	83	84
+78	Jefferson	Farfán	RM	FC Schalke 04	83	83
+79	João Filipe	Moutinho	CM	AS Monaco	83	83
+80	Samir	Handanovič	GK	Inter	83	84
+81	Stéphane	Ruffier	GK	AS Saint-Etienne	83	82
+82	João Miranda	de Souza Filho	CB	Atlético de Madrid	83	81
+83	Ivan	Rakitić	CAM	FC Barcelona	83	81
+84	Ezequiel	Garay	CB	Zenit St. Petersburg	83	82
+85	Blaise	Matuidi	CDM	Paris Saint-Germain	83	81
+86	Daniel	Sturridge	ST	Liverpool	83	82
+87	Marek	Hamšik	CAM	Napoli	83	84
+88	Claudio	Marchisio	CM	Juventus	83	84
+89	Antonio	Candreva	RW	Lazio	83	82
+90	Claudio	Bravo	GK	FC Barcelona	83	81
+91	Miralem	Pjanić	CM	Roma	83	80
+92	Edin	Džeko	ST	Manchester City	83	83
+93	Mario	Mandžukić	ST	Atlético de Madrid	83	83
+94	Aaron	Ramsey	CM	Arsenal	83	81
+95	İlkay	Gündoğan	CM	Borussia Dortmund	83	84
+96	Givanildo	Vieira de Souza	RW	Zenit St. Petersburg	83	84
+97	Pedro	Rodríguez Ledesma	LW	FC Barcelona	83	85
+98	Christian	Eriksen	LM	Tottenham Hotspur	83	82
+99	David	De Gea Quintana	GK	Manchester United	83	82
+100	Juan	Cuadrado	RM	Fiorentina	83	81
